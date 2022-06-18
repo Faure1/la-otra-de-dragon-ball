@@ -23,7 +23,7 @@ const Bodys= () => {
                         </div>
                         <div className='col-12 col-lg-6' >
                             <div className='d-flex justify-content-center'>
-                                <Image  src='/assets/2pag-1.png'  width={500} height={650} layout='intrinsic'/>  
+                                <Image alt='dragonball' src='/assets/2pag-1.png'  width={500} height={650} layout='intrinsic'/>  
                             </div>
                         </div>
                     </Row>
@@ -90,7 +90,7 @@ const Bodys= () => {
                     <Row className='mt-4'>
                         <div className='col-12 col-lg-3'>
                             <div className='d-flex justify-content-center'>                                            
-                                <Image  src='/assets/top5.png'  width={700} height={650} layout='intrinsic'/>
+                                <Image alt='dragonball'  src='/assets/top5.png'  width={700} height={650} layout='intrinsic'/>
                             </div>
                         </div>
                         <div className='col-12 col-lg-3'>
@@ -102,7 +102,7 @@ const Bodys= () => {
                         </div>
                         <div className='col-12 col-lg-3'>
                             <div className='d-flex justify-content-center'>
-                                <Image  src='/assets/top4.png'  width={600} height={650} layout='intrinsic'/>
+                                <Image  alt='dragonball' src='/assets/top4.png'  width={600} height={650} layout='intrinsic'/>
                             </div>
                         </div>
                         <div className='col-12 col-lg-3'>
@@ -116,7 +116,7 @@ const Bodys= () => {
                     <Row>
                         <div className='col-12 col-lg-3 mt-4'>
                             <div className='d-flex justify-content-center'>
-                                <Image  src='/assets/top3.png'  width={600} height={650} layout='intrinsic'/>
+                                <Image  alt='dragonball' src='/assets/top3.png'  width={600} height={650} layout='intrinsic'/>
                             </div>
                         </div>
                         <div className='col-12 col-lg-3 mt-4 '>
@@ -128,7 +128,7 @@ const Bodys= () => {
                         </div>
                         <div className='col-12 col-lg-3 mt-4'>
                             <div className='d-flex justify-content-center'>
-                                <Image  src='/assets/top2.png'  width={500} height={650} layout='intrinsic'/>
+                                <Image alt='dragonball'  src='/assets/top2.png'  width={500} height={650} layout='intrinsic'/>
                             </div>
                         </div>
                         <div className='col-12 col-lg-3 mt-4'>
@@ -144,7 +144,7 @@ const Bodys= () => {
                             <h1>El top 1 es para:</h1>
                         </div>
                         <div className='d-flex justify-content-center'>
-                            <Image  src='/assets/top1.png'  width={600} height={650} layout='intrinsic'/>
+                            <Image  alt='dragonball' src='/assets/top1.png'  width={600} height={650} layout='intrinsic'/>
                         </div>
                         <div >
                             <h2 className=' text-center'> Episodio 47</h2>
@@ -173,7 +173,7 @@ const Bodys= () => {
                         </div>
                         <div className='col-12 col-lg-3 mt-4'>
                             <div className='d-flex justify-content-center'>
-                                <Image  src='/assets/peli1.png'  width={500} height={650} layout='intrinsic'/>
+                                <Image alt='dragonball'  src='/assets/peli1.png'  width={500} height={650} layout='intrinsic'/>
                             </div>
                         </div>
                         <div className='col-12 col-lg-3 mt-4'>
@@ -185,7 +185,7 @@ const Bodys= () => {
                         </div>
                         <div className='col-12 col-lg-3 mt-4'>
                             <div className='d-flex justify-content-center'>
-                                <Image  src='/assets/peli2.png'  width={500} height={650} layout='intrinsic'/>
+                                <Image alt='dragonball'  src='/assets/peli2.png'  width={500} height={650} layout='intrinsic'/>
                             </div>
                         </div>
                     </Row>
@@ -199,7 +199,7 @@ const Bodys= () => {
                         </div>
                         <div className='col-12 col-lg-3 mt-4'>
                             <div className='d-flex justify-content-center'>
-                                <Image  src='/assets/peli3.png'  width={500} height={650} layout='intrinsic'/>
+                                <Image alt='dragonball'  src='/assets/peli3.png'  width={500} height={650} layout='intrinsic'/>
                             </div>
                         </div>
                         <div className='col-12 col-lg-3 mt-4'>
@@ -211,7 +211,7 @@ const Bodys= () => {
                         </div>
                         <div className='col-12 col-lg-3 mt-4'>
                             <div className='d-flex justify-content-center'>
-                                <Image  src='/assets/peli4.png'  width={500} height={650} layout='intrinsic'/>
+                                <Image alt='dragonball'  src='/assets/peli4.png'  width={500} height={650} layout='intrinsic'/>
                             </div>
                         </div>
                     </Row>
@@ -237,12 +237,12 @@ const Bodys= () => {
                         </div>
                         <div className='col-12 col-lg-3 mt-4'>
                             <div className='d-flex justify-content-center'>
-                                <Image  src='/assets/especial1.png'  width={500} height={650} layout='intrinsic'/>
+                                <Image  alt='dragonball' src='/assets/especial1.png'  width={500} height={650} layout='intrinsic'/>
                             </div>
                         </div>
                         <div className='col-12 col-lg-3 mt-4'>
                             <div className='d-flex justify-content-center'>
-                                <Image  src='/assets/especial2.png'  width={500} height={650} layout='intrinsic'/>
+                                <Image  alt='dragonball' src='/assets/especial2.png'  width={500} height={650} layout='intrinsic'/>
                             </div>
                         </div>
                         <div className='col-12 col-lg-3 mt-4'>
