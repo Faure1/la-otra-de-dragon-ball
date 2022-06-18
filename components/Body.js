@@ -194,7 +194,7 @@ const Bodys= () => {
                             <div>
                                 <h1 className=' text-center'>Dragon Ball: Una Aventura Mística</h1>
                                 <h2 className=' text-center'> Fecha de estreno:9 de junio de 1988 </h2>
-                                <p className='text-center'>Es una película sucesora de Dragon Ball: La princesa durmiente en el castillo del espíritu maligno, siendo también una historia alternativa a la serie que ocurre en un mundo paralelo, tomando lugar posteriormente a los entrenamientos de Kame-Sen'nin,</p>
+                                <p className='text-center'>Es una película sucesora de Dragon Ball: La princesa durmiente en el castillo del espíritu maligno, siendo también una historia alternativa a la serie que ocurre en un mundo paralelo, tomando lugar posteriormente a los entrenamientos de Kame-Sen nin,</p>
                             </div>
                         </div>
                         <div className='col-12 col-lg-3 mt-4'>
