@@ -168,7 +168,7 @@ const Bodys= () => {
                             <div>
                                 <h1 className=' text-center'>Dragon Ball: La leyenda de Shen Long</h1>
                                 <h2 className=' text-center'> Fecha de estreno:20 de diciembre de 1986 </h2>
-                                <p className='text-center'> llamada en Hispanoamérica La Leyenda de Shen Long, y en España: La leyenda del dragón Xerón[2], es la primera película basada en la serie de manga y anime de Dragon Ball estrenada el 20 de diciembre de 1986 en el "Festival de caricaturas de Toei" en cines japoneses.</p>
+                                <p className='text-center'> llamada en Hispanoamérica La Leyenda de Shen Long, y en España: La leyenda del dragón Xerón[2], es la primera película basada en la serie de manga y anime de Dragon Ball estrenada el 20 de diciembre de 1986 en el Festival de caricaturas de Toei en cines japoneses.</p>
                             </div>
                         </div>
                         <div className='col-12 col-lg-3 mt-4'>
@@ -180,7 +180,7 @@ const Bodys= () => {
                             <div>
                                 <h1 className=' text-center'>Dragon Ball: La Bella Durmiente en el Castillo del Mal</h1>
                                 <h2 className=' text-center'> Fecha de estreno:18 de julio de 1987 </h2>
-                                <p className='text-center'>es la segunda película animada basada en la serie de manga y anime de Dragon Ball, como sucesora de Dragon Ball: La leyenda de Shen Long. Fue estrenada el 18 de julio de 1987 en el "Festival de caricaturas de Toei" en cines japoneses.</p>
+                                <p className='text-center'>es la segunda película animada basada en la serie de manga y anime de Dragon Ball, como sucesora de Dragon Ball: La leyenda de Shen Long. Fue estrenada el 18 de julio de 1987 en el Festival de caricaturas de Toei en cines japoneses.</p>
                             </div>
                         </div>
                         <div className='col-12 col-lg-3 mt-4'>
