@@ -42,7 +42,7 @@ const Bodys= () => {
                     <Row>
                         <div className='col-12 col-lg-6'>
                             <div className='d-flex justify-content-center'>
-                                    <Image  src='/assets/1-manga.png'  width={500} height={650} layout='intrinsic'/>
+                                    <Image  alt='dragonball' src='/assets/1-manga.png'  width={500} height={650} layout='intrinsic'/>
                             </div>
                             <div>
                                 <p className='text-center'>Fue el primer manga en salir de la primer saga de dragon ball en el cual .....</p>
@@ -50,7 +50,7 @@ const Bodys= () => {
                         </div>
                         <div className='col-12 col-lg-6'>
                             <div className='d-flex justify-content-center'>
-                                <Image  src='/assets/2-manga.png'  width={500} height={650} layout='intrinsic'/>
+                                <Image alt='dragonball'  src='/assets/2-manga.png'  width={500} height={650} layout='intrinsic'/>
                             </div>
                             <div>
                                 <p className='text-center'>Fue el ultimo manga en salir de la primer saga de dragon ball en el cual .....</p>
@@ -67,7 +67,7 @@ const Bodys= () => {
                     <Row>
                         <div className='col-12 col-lg-6'>
                             <div className='d-flex justify-content-center'>
-                                <Image  src='/assets/1-episodio.png'  width={600} height={650} layout='intrinsic'/>
+                                <Image alt='dragonball' src='/assets/1-episodio.png'  width={600} height={650} layout='intrinsic'/>
                             </div>
                             <div>
                                 <p className='text-center'>Fue el primer episodio en salir de la primer saga de dragon ball en el cual .....</p>
@@ -75,7 +75,7 @@ const Bodys= () => {
                         </div>
                         <div className='col-12 col-lg-6'>
                             <div className='d-flex justify-content-center'>
-                                <Image  src='/assets/2-episodio.png'  width={600} height={650} layout='intrinsic'/>
+                                <Image alt='dragonball'  src='/assets/2-episodio.png'  width={600} height={650} layout='intrinsic'/>
                             </div>
                             <div>
                                 <p className='text-center'>Fue el ultimo episodio en salir de la primer saga de dragon ball en el cual .....</p>
