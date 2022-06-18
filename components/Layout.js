@@ -16,8 +16,10 @@ const Nava = ({children}) => {
               </Nav>
               <Nav>
                 <Nav.Link href='#inicio' ><p className='letras-nav text-center'>INICIO</p></Nav.Link>
-                <Nav.Link href='#sagas' ><p className='letras-nav text-center'>SAGAS</p></Nav.Link>
-                <Nav.Link href='#ver'><p className='letras-nav text-center'>VER</p></Nav.Link>
+                <Nav.Link href='#sagas' ><p className='letras-nav text-center'>Historia</p></Nav.Link>
+                <Nav.Link href='#ver'><p className='letras-nav text-center'>Manga</p></Nav.Link>
+                <Nav.Link href='#ver'><p className='letras-nav text-center'>Episodios</p></Nav.Link>
+                <Nav.Link href='#ver'><p className='letras-nav text-center'>Endings</p></Nav.Link>
               </Nav>
             </Navbar.Collapse>
           </Container>

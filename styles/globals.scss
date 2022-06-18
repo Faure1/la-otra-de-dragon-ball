@@ -1,18 +1,43 @@
 @import url('http://fonts.cdnfonts.com/css/saiyan-sans');
 #__next{
   background: #e58f8f
-}
-.letras-nav{
+}                               
+.letras-nav{                               
   font-family: 'Saiyan Sans - Right Oblique', sans-serif;
-  font-size: 35px;
+  font-size: 35px;     
   color: #f4da00;
 }
 h1{
   font-family: 'Saiyan Sans - Right Oblique', sans-serif;
-  font-size: 45px;
+  font-size: 60px;
   color: #EC2324;
 }
 p{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: 24px;
+}
+.video-open1{
+  width: 500px;
+  height: 500px;
+  background: url(../public/assets/open1.png) center center /contain no-repeat ;
+}
+.video-open2{
+  width: 400px;
+  height: 500px;
+  background: url(../public/assets/ending1.png) center center /contain no-repeat ;
+}
+a{
+  text-decoration: none;
+}
+@media (max-width: 768px){
+  .video-open1{
+    width: 300px;
+    height: 300px;
+    background: url(../public/assets/open1.png) center center /contain no-repeat ;
+  }
+  .video-open2{
+    width: 300px;
+    height: 300px;
+    background: url(../public/assets/ending1.png) center center /contain no-repeat ;
+  }
 }
